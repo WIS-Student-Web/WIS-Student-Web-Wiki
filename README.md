@@ -1,8 +1,8 @@
 # WIS Student Web Wiki
 
-![GitHub issues](https://img.shields.io/github/issues/wis-student-web/wis-student-web-wiki)
+![GitHub issues](https://img.shields.io/github/issues/WIS-Student-Web/WIS-Student-Web-Wiki)
 ![GitHub stars](https://img.shields.io/github/stars/WIS-Student-Web/WIS-Student-Web-Wiki)
-![GitHub license](https://img.shields.io/github/license/wis-student-web/wis-student-web-wiki)
+![GitHub license](https://img.shields.io/github/license/WIS-Student-Web/WIS-Student-Web-Wiki)
 
 ## Home
 - Welcome message
