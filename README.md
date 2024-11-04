@@ -1,2 +1,2 @@
 # WIS-Student-Web-Wiki
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+![Static Badge](https://img.shields.io/badge/Welcom_To-WIS_Student_Web-blue)
