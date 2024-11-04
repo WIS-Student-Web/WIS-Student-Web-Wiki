@@ -1,5 +1,7 @@
 # 🌟 WIS Student Web Wiki 🌟
 
+[![Visit WIS Student Web](https://img.shields.io/badge/Visit-WIS%20Student%20Web-brightgreen)](URL_TO_YOUR_WEBSITE)
+
 ![GitHub issues](https://img.shields.io/github/issues/WIS-Student-Web/WIS-Student-Web-Wiki)
 ![GitHub stars](https://img.shields.io/github/stars/WIS-Student-Web/WIS-Student-Web-Wiki)
 ![GitHub license](https://img.shields.io/github/license/WIS-Student-Web/WIS-Student-Web-Wiki)
@@ -47,7 +49,3 @@ Welcome to the **WIS Student Web Wiki**!
 - **Guidelines** for contributing content
 - **Submission form** for articles and resources
 - **Moderation process**
-
----
-
-[![Visit WIS Student Web](https://img.shields.io/badge/Visit-WIS%20Student%20Web-brightgreen)](URL_TO_YOUR_WEBSITE)
