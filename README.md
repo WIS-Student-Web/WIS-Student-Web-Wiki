@@ -1,6 +1,6 @@
 # WIS Student Web Wiki
 
-![GitHub issues](https://img.shields.io/github/issues/<username>/<repo>)
+![GitHub issues](https://img.shields.io/github/issues/wis-student-web/wis-student-web-wiki)
 ![GitHub forks](https://img.shields.io/github/forks/<username>/<repo>)
 ![GitHub stars](https://img.shields.io/github/stars/<username>/<repo>)
 ![GitHub license](https://img.shields.io/github/license/<username>/<repo>)
