@@ -1,7 +1,7 @@
 # WIS Student Web Wiki
 
 ![GitHub issues](https://img.shields.io/github/issues/wis-student-web/wis-student-web-wiki)
-![GitHub stars](https://img.shields.io/github/stars/wis-student-web/wis-student-web-wiki)
+![GitHub stars](https://img.shields.io/github/stars/WIS-Student-Web/WIS-Student-Web-Wiki)
 ![GitHub license](https://img.shields.io/github/license/wis-student-web/wis-student-web-wiki)
 
 ## Home
