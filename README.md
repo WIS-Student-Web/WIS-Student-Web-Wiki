@@ -1,10 +1,9 @@
 # WIS Student Web Wiki
 
 ![GitHub issues](https://img.shields.io/github/issues/wis-student-web/wis-student-web-wiki)
-![GitHub forks](https://img.shields.io/github/forks/<username>/<repo>)
-![GitHub stars](https://img.shields.io/github/stars/<username>/<repo>)
-![GitHub license](https://img.shields.io/github/license/<username>/<repo>)
-![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2F<username>%2F<repo>)
+![GitHub forks](https://img.shields.io/github/forks/wis-student-web/wis-student-web-wiki)
+![GitHub stars](https://img.shields.io/github/stars/wis-student-web/wis-student-web-wiki)
+![GitHub license](https://img.shields.io/github/license/wis-student-web/wis-student-web-wiki)
 
 ## Home
 - Welcome message
